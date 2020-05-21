@@ -1,0 +1,15 @@
+1 - Télécharger les fichiers: app-slider.R/ model.R / app-numeric.R / model.rds  (Mettre les fichiers dans le même répértoire)
+
+
+2- Installer les packages : RCurl / randomForest / caret /data.table / shiny (Tools---> Install packages) 
+
+
+3- Run app-numeric.R  
+
+
+
+
+
+
+
+
